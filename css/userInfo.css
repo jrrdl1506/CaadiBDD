@@ -1,0 +1,51 @@
+.formInfoUser{
+    
+    margin: 0%;
+    
+    
+    background-image: url("img_22.jpg");
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+
+.icon-circle{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /*background: #9a3a3a;*/
+    border-radius: 100%;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+
+.user-info{
+    margin: 0%;
+    background: #d8d8d8;
+    border-left: 4px solid rgb(138, 138, 138);
+    border-right: 4px solid rgb(138, 138, 138);
+    height: 74vh;
+    /*border-bottom-left-radius: 2% ;
+    border-bottom-right-radius: 2% ;*/
+    
+}
+
+
+.user-info .user-info-pad{
+    background: #efeeee;
+    padding: 20px;
+    border-radius: 5%;
+    min-width: 320px;
+}
+
